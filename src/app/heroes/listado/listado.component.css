@@ -1,0 +1,11 @@
+li {
+    list-style-type: none;
+    background-color: rgb(141, 209, 216);
+    padding: 5px 10px;
+    border: 1px solid black;
+    margin: 5px 0px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    width: 30%;
+}
